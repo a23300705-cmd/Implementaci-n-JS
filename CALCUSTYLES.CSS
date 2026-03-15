@@ -1,0 +1,27 @@
+.grilla{
+ background-color: rgb(90, 15, 156);
+ WIDTH: 290px;
+ padding: 50px;
+ border: 2px solid black;
+    border-radius: 15px;
+}
+button{
+    width: 69px;
+    height: 65px;
+    font-size: medium;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 100;
+    background-color: rgb(161, 28, 70);
+}
+body{
+    background-color: rgba(21, 61, 192, 0.514);
+}
+.pantalla{
+width: 290px;
+height: 200PX;
+background-color: rgb(162, 48, 126);
+ font-size: 40px;       /* tamaño del texto */
+    font-family: Arial;    /* tipo de letra */
+    text-align: right;     /* números alineados a la derecha */
+
+}
